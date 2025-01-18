@@ -1,5 +1,7 @@
 # Freelancer Badge for UpWork, Guru, PeoplePerHour 🌐 HTML Gadget for Personal Website 
 
+![Freelancer Badge for UpWork, Guru, PeoplePerHour](https://raw.githubusercontent.com/tawhidurrahmandear/freelancer-badge/refs/heads/main/screenshot.png)
+
 * developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com 
 * Live Preview available at https://tawhidurrahmandear.github.io/freelancer-badge 
 * Released under MIT License on Github at https://github.com/tawhidurrahmandear/freelancer-badge 
